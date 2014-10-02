@@ -15,7 +15,7 @@ Amazon Partner Accreditations
 
 #### [Laboratórios da Amazon](https://run.qwiklabs.com/)
 
-#### Treinamento de como Implantar Aplicações Oracle, SAP e Microsoft na AWS:
+#### Implantação de Aplicações Oracle, SAP e Microsoft na AWS:
   - [Enterprise Applications on AWS: Oracle](https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=6f2f8d00-f038-4d58-a9b0-6c4d238b199c)
   - [Enterprise Applications on AWS: SAP](https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=b27032e5-4db6-4f49-8e27-c8afef61e771)
   - [Enterprise Applications on AWS: Microsoft](https://awstraining.csod.com/LMS/LoDetails/DetailsLo.aspx?loid=1469b484-73ca-4a18-9d4b-af1b9bdfd46d)
